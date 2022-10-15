@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Test</string>
+    <string name="first_git_commit_string">My first git project test</string>
 </resources>
