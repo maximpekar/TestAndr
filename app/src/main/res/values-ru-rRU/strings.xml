@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Библиотека</string>
+    <string name="db_upload_message">Идет загрузка данных…</string>
+</resources>

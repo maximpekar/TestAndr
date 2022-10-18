@@ -1,4 +1,4 @@
 <resources>
-    <string name="app_name">Test</string>
-    <string name="first_git_commit_string">My first git project test</string>
+    <string name="app_name">HomeLibrary</string>
+    <string name="db_upload_message">Uploading in progress…</string>
 </resources>
